@@ -21,7 +21,7 @@ The following is a list of completed challenges, along with their live demos:
 1. [Challenge 1 - QR Code](https://github.com/n-kyu/frontendmentor-challenge/tree/main/qr-code-component-main)
 2. [Challenge 2 - Summary Results](https://github.com/n-kyu/frontendmentor-challenge/tree/main/results-summary-component-main)
 3. [Challenge 3 - Interactive Rating Component](https://github.com/n-kyu/frontendmentor-challenge/tree/main/interactive-rating-component-main)
-4. [Challenge 4 - FAQ accordion card](https://github.com/n-kyu/frontendmentor-challenge/tree/main/faq-accordion-card-main)
+4. [Challenge 4 - FAQ accordion card](https://github.com/n-kyu/frontend-challenges-part-2/tree/main/faq-accordion-card)
 5. [Challenge 5 - Soon](https://www.frontendmentor.io/challenges)
 6. [Challenge 6 - Soon](https://www.frontendmentor.io/challenges)
 7. [Challenge 7 - Soon](https://www.frontendmentor.io/challenges)
